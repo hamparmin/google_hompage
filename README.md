@@ -1,0 +1,1 @@
+This is my first HTML project for the Odin Couse. I am replicating the looks of the Google Homepage.
